@@ -3,6 +3,7 @@
 ## Introduction
 This course is an introduction to data science in Python.
 
+![](https://imgs.xkcd.com/comics/python.png)
 
 ## Topics
 It will cover the following topics:
@@ -19,5 +20,12 @@ It will cover the following topics:
 * Data visualization
 * Working with textual data
 
+## Assessment
+- Two Assignments each 40% of the grade
+- And a Test 20% of the grade on Friday 28th April 17:00
+
 ## Lesson Notes
 1. [Lesson 1](lesson_notes/Lesson_1.md)
+
+## Lecture Material
+1. [Preliminart 1](lecture_material/../../preliminary_material.pdf)
