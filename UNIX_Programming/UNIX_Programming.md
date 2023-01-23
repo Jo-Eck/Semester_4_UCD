@@ -16,5 +16,10 @@ This course is an introduction to Unix programming.
 * Processes, signals, inter-process communication, networking
 * Shell scripting
 
+## Assessment
+Written exam 50%
+5 Asssignments
+
+
 ## Lesson Notes
 1. [Lesson 1](lesson_notes/Lesson_1.md)
