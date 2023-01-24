@@ -1,7 +1,7 @@
 
+![](.images/UCD_banner.png)<br>
 ## Semester 4 @ UCD
-![](https://www.ucd.ie/settech/t4media/ucd_wide_banner_img-1.gif) <br>
-<br>
+
 This repo is the complete collection of my notes, programs and projects created during my studies at the University College Dublin.
 
 I took the following courses:
