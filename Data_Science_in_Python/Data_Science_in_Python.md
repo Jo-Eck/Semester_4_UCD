@@ -25,7 +25,11 @@ It will cover the following topics:
 - And a Test 20% of the grade on Friday 28th April 17:00
 
 ## Lesson Notes
-1. [Lesson 1](lesson_notes/Lesson_1.md)
+1. [Lesson 1 (Basics of python)](lesson_notes/Lesson_1.md)
 
 ## Lecture Material
-1. [Preliminart 1](lecture_material/../../preliminary_material.pdf)
+1. [Preliminary material](lecture_materials/../lecture_material/preliminary_material.pdf)
+2. [Introduction to Python](lecture_materials/../lecture_material/introduction_to_python.pdf)
+
+## Practicals and Assignments
+1. [Lab 01 (Basics of python)](/Data_Science_in_Python/practicals/Lab%2001%20Tasks.ipynb)

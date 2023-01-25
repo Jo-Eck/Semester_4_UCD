@@ -1,5 +1,5 @@
 # Unix Programming
-
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Tux.png/220px-Tux.png)
 ## Introduction
 This course is an introduction to Unix programming.
 
@@ -22,4 +22,10 @@ Written exam 50%
 
 
 ## Lesson Notes
-1. [Lesson 1](lesson_notes/Lesson_1.md)
+1. [Lesson 1 (History of Unix)](lesson_notes/Lesson_1.md)
+
+## Lecture Material
+1. [Lecture 1 (History of Unix)](/UNIX_Programming/lesson_materials/comp20200-L01.pdf)
+2. [Lecture 2 (Unix Shell & Dir-Structure)](/UNIX_Programming/lesson_materials/comp20200-L02.pdf)
+## Practicals and Assignments
+1. [Lab 01 (WSL setup and Hello World)](/UNIX_Programming/practicals/lab_no1/)
