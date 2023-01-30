@@ -26,6 +26,7 @@ It will cover the following topics:
 
 ## Lesson Notes
 1. [Lesson 1 (Basics of python)](lesson_notes/Lesson_1.md)
+2. [Lesson 2 (Still basic stuff ....)](lesson_notes/Lesson_2.md)
 
 ## Lecture Material
 1. [Preliminary material](lecture_materials/../lecture_material/preliminary_material.pdf)
