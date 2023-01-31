@@ -1,0 +1,29 @@
+pwd                   - prints the current working directory                                pwd -P to print the physical directory, not the symbolic link
+history               - prints the history of commands you have entered;                    history -c to clear the history
+rm                    - removes a file or directory;                                        rm -r to remove a directory and all its contents
+cat                   - prints the contents of a file to the screen                         cat -n to print the contents of a file with line numbers
+touch                 - creates a new file or updates the timestamp of an existing file     touch -a to update the access time of a file
+head                  - prints the first 10 lines of a file                                 head -n 5 to print the first 5 lines of a file
+tail                  - prints the last 10 lines of a file                                  tail -n 5 to print the last 5 lines of a file
+diff                  - compares two files and shows the differences between them           diff -q to compare two files and return a 0 if they are the same, 1 if they are different
+which                 - shows the full path of a shell command                              which -i inlcudes aliases in the resulution
+gcc                   - compiles a C program                                                gcc -o to specify the name of the output file
+wc                    - counts the number of lines, words, and characters in a file         wc -l to count the number of lines in a file
+echo                  - prints a string to the screen                                       echo -n to print a string without a newline
+chmod                 - changes the permissions of a file                                   chmod -R to change the permissions of a directory and all its contents
+grep                  - searches for a string in a file                                     grep -i to ignore case when searching
+find                  - searches for files in a directory tree                              find -name to search for files with a specific name
+sort                  - sorts the lines of a file alphabetically                            sort -r to sort the lines of a file in reverse order
+ln                    - creates a link to a file                                            ln -s to create a symbolic link to a file
+du                    - estimates the disk usage of a file or directory                     du -h to print the disk usage in human-readable format
+df                    - shows the amount of free disk space on a filesystem                 df -h to print the free disk space in human-readable format
+w                     - shows who is logged in and what they are doing                      w -h to print the results in a human-readable format
+who                   - shows who is logged in                                              who -u to show who is logged in and what they are doing
+whoami                - shows the current user                                              whoami -a to show the current user and the system they are logged into
+finger                - shows information about a user or users                             finger -m to show the users' mailboxes
+passwd                - changes a user's password                                           passwd -l to lock a user's account
+top                   - shows the currently running processes                               top -u to show the processes for a specific user
+ps                    - shows the currently running processes                               ps -u to show the processes for a specific user
+kill                  - sends a signal to a process                                         kill -9 to send a SIGKILL signal to a process
+date                  - prints the current date and time                                    date -u to print the current universal
+time                  - measures the real time it takes to run a program                    time -p to print the real time it takes to run a program
