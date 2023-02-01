@@ -31,6 +31,8 @@ It will cover the following topics:
 ## Lecture Material
 1. [Preliminary material](lecture_materials/../lecture_material/preliminary_material.pdf)
 2. [Introduction to Python](lecture_materials/../lecture_material/introduction_to_python.pdf)
+3. [Next steps in Python](lecture_materials/../lecture_material/03%20-%20Next%20Steps%20in%20Python.pdf)
 
 ## Practicals and Assignments
 1. [Lab 01 (Basics of python)](/Data_Science_in_Python/practicals/Lab%2001%20Tasks.ipynb)
+2. [Lab 02 (Still basic stuff ....)](/Data_Science_in_Python/
