@@ -23,7 +23,19 @@ It will cover the following topics:
 Each week there is a quiz on the previous weeks material <br>
 Midterm on the 10. at 10:00
 ## Lesson Notes
-1. [Lesson 1 + 2 (Partial derivatives & Hesse)](lesson_notes/Lesson_1.md)
+1. [Chapter 1 (Partial derivatives & Hesse)](lesson_notes/Lesson_1.md)s
 
 ## Lesson Materials
-1. [Slide Partial derivatives](Optimization_in_Finance/lesson_materials/chap1.pdf)
+1. [Intro](Optimization_in_Finance/lesson_materials/intro.pdf)
+2. [Entire Lecture (continuously updating)](Optimization_in_Finance/lesson_materials/lecture.pdf)
+3. [Slide Partial derivatives](Optimization_in_Finance/lesson_materials/chap1.pdf)
+4. [Slide Lagrange multipliers](Optimization_in_Finance/lesson_materials/chap2.pdf)
+5. [Slides Linear programming](Optimization_in_Finance/lesson_materials/chap3.pdf)
+
+## Exercises
+1. [Exercise Chapter 1](lesson_materials/Prob1.pdf)
+2. [Exercise Chapter 2](lesson_materials/Prob2.pdf)
+
+## Tests
+1. [Test Chapter 1] (Optimization_in_Finance/tests/03.02.2023_Second_Derivative.pdf)
+   
