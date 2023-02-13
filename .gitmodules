@@ -1,3 +1,6 @@
 [submodule "Introduction_to_Robotics/UCD_Robotics_Project"]
 	path = Introduction_to_Robotics/UCD_Robotics_Project
 	url = git@github.com:Jo-Eck/UCD_Robotics_Project.git
+[submodule "UNIX_Programming/UCD_UNIX_Assignments"]
+	path = UNIX_Programming/assignments
+	url = git@github.com:Jo-Eck/UCD_UNIX_Assignments.git

@@ -1,9 +1,13 @@
 # Unix Programming
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Tux.png/220px-Tux.png)
+
+![Tux](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Tux.png/220px-Tux.png)
+
 ## Introduction
+
 This course is an introduction to Unix programming.
 
 ## Topics
+
 * History, the origin and the current state of Unix
 * Introduction to Unix shell
 * Intro to kernel, virtual memory, process image
@@ -17,20 +21,34 @@ This course is an introduction to Unix programming.
 * Shell scripting
 
 ## Assessment
+
 Written exam 50%
 5 Asssignments
 
-
 ## Lesson Notes
-1. [Lesson 1 (History of Unix)](lesson_notes/Lesson_1.md)
-2. [Lesson 3 (Kernelspace)](lesson_notes/Lesson_3.md)
-3. [Lesson 4 (I/O in C)](lesson_notes/Lesson_4.md)
+
+1. [Lesson 01 (History of Unix)](lesson_notes/Lesson_1.md)
+2. [Lesson 03 (Kernelspace)](lesson_notes/Lesson_3.md)
+3. [Lesson 04 (I/O in C)](lesson_notes/Lesson_4.md)
+4. [Lesson 05 (Memory Management in C)](lesson_notes/Lesson_5.md)
+5. [Lesson 06 (Pointers)](lesson_notes/Lesson_6.md)
+
 
 ## Lecture Material
-1. [Lecture 1 (History of Unix)](/UNIX_Programming/lesson_materials/comp20200-L01.pdf)
-2. [Lecture 2 (Unix Shell & Dir-Structure)](/UNIX_Programming/lesson_materials/comp20200-L02.pdf)
-3. [Lecture 3 (Kernelspace)](/UNIX_Programming/lesson_materials/comp20200-L03.pdf)
-4. [Lecture 4 (I/O in C)](/UNIX_Programming/lesson_materials/comp20200-L04.pdf)
-## Practicals and Assignments
+
+1. [Lecture 01 (History of Unix)](/UNIX_Programming/lesson_materials/comp20200-L01.pdf)
+2. [Lecture 02 (Unix Shell & Dir-Structure)](/UNIX_Programming/lesson_materials/comp20200-L02.pdf)
+3. [Lecture 03 (Kernelspace)](/UNIX_Programming/lesson_materials/comp20200-L03.pdf)
+4. [Lecture 04 (I/O in C)](/UNIX_Programming/lesson_materials/comp20200-L04.pdf)
+5. [Lecture 05 (Memory Management in C)](/UNIX_Programming/lesson_materials/comp20200-L05.pdf)
+6. [Lecture 06 (Pointers)](lesson_materials/comp20200-L06.pdf)
+
+## Practicals
+
 1. [Lab 01 (WSL setup and Hello World)](/UNIX_Programming/practicals/lab_no1/)
 2. [Lab 02 (Unix Shell)](/UNIX_Programming/practicals/lab_no2/)
+3. [Lab 03 (Shell arguments and String manipulation)](/UNIX_Programming/practicals/lab_no3/)
+
+## Assignments
+
+1. [Assignment 01](/UNIX_Programming/assignments/assignment_01/)
