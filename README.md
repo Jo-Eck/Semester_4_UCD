@@ -10,7 +10,6 @@ I took the following courses:
 * [COMP20200: UNIX Programming](UNIX_Programming/UNIX_Programming.md)
 * [COMP41680: Data Science in Python](Data_Science_in_Python/Data_Science_in_Python.md)
 * [COMP20170: Introduction to Robotics](Introduction_to_Robotics/Introduction_to_Robotics.md)
-* [ACC20020 Management Accounting]()
 
 >During the course of my studies I also wrote my second seminar paper on the implementation of a classification model of support ticket data.
 This can be found [here](https://github.com/Jo-Eck/Studienarbeit-2)
