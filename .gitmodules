@@ -7,3 +7,6 @@
 [submodule "Data_Science_in_Python/assignmnets/assignment_No1"]
 	path = Data_Science_in_Python/assignmnets/assignment_No1
 	url = git@github.com:Jo-Eck/UCD_Assignment_DS_No1.git
+[submodule "Data_Science_in_Python/assignments/Assignment_no1"]
+	path = Data_Science_in_Python/assignments/Assignment_no1
+	url = git@github.com:Jo-Eck/UCD_Assignment_DS_No1.git
