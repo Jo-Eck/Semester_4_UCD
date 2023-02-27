@@ -36,7 +36,6 @@ Written exam 50%
 7. [Lesson 09 (Headers and Dependencies)](lesson_notes/Lesson_9.md)
 8. [Lesson 10 (Execve)](lesson_notes/Lesson_10.md)
 
-
 ## Lecture Material
 
 1. [Lecture 01 (History of Unix)](/UNIX_Programming/lesson_materials/comp20200-L01.pdf)
