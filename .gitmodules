@@ -1,6 +1,7 @@
 [submodule "Introduction_to_Robotics/UCD_Robotics_Project"]
 	path = Introduction_to_Robotics/UCD_Robotics_Project
 	url = git@github.com:Jo-Eck/UCD_Robotics_Project.git
+	branch = main
 [submodule "UNIX_Programming/assignments/assignment_No1"]
 	path = UNIX_Programming/assignments
 	url = git@github.com:Jo-Eck/UCD_Assignment_UNIX_No1.git
@@ -10,3 +11,9 @@
 [submodule "Data_Science_in_Python/assignments/Assignment_no1"]
 	path = Data_Science_in_Python/assignments/Assignment_no1
 	url = git@github.com:Jo-Eck/UCD_Assignment_DS_No1.git
+	branch = main
+[submodule "Data_Science_in_Python/assignments/Assignment_no2"]
+	path = Data_Science_in_Python/assignments/Assignment_no2
+	url = git@github.com:Jo-Eck/UCD-DS-Assignment-No2.git
+[submodule "UNIX_Programming/assignments"]
+	branch = main
