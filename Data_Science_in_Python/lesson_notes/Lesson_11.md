@@ -14,6 +14,15 @@ Regular patterns are patterns that repeat at regular intervals. For example, the
 
 Irregular patterns are special events that happen at irregular intervals. For example, a stock price can go up or down at any time. This is an irregular pattern. The stock price can go up or down at any time, and this happens at irregular intervals. This is an irregular pattern that happens at irregular intervals.
 
+### Trends
+
+Trends are patterns that change over time. For example, the temperature of an area can increase or decrease over time. This is a trend. The temperature can increase or decrease over time, and this happens over a long period of time. This is a trend that changes over time.
+
+### Step changes
+
+Step changes are sudden changes in the data. For example, the temperature of an area can suddenly increase or decrease. This is a step change. The temperature can suddenly increase or decrease, and this happens suddenly. This is a step change that happens suddenly.
+
+
 ## How to analyze time series data
 
 ### Visualizing time series data
@@ -25,13 +34,13 @@ This is especially true when comparing multiple time series. For example, if we 
 
 The trend is the general direction in which the data is moving. For example, if the temperature is increasing, the trend is up. If the temperature is decreasing, the trend is down. If the temperature is staying the same, the trend is flat.
 
-## Chraracteristics of time series data
+## Characteristics of time series data
 
 * Is the source equaly spaced?
 * How noisy is the data?
 * Is the data stationary?
 * How narrow is our window of interest?
 
-## Stationarity
+## Stationary
 
 A time series is stationary if its statistical properties such as mean, variance, autocorrelation, etc. are all constant over time. If a time series is not stationary, it is non-stationary. Non-stationary time series can be made stationary by transforming them. This is called differencing.
