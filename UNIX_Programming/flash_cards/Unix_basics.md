@@ -1,5 +1,4 @@
-# Unix Lesson 2 Flash Cards
-
+# Unix basics
 ## What is a shell?
 
 - command line interface to the operating system
