@@ -26,6 +26,8 @@ It will cover the following topics:
 ## Assessment
 
 * Two Assignments each 40% of the grade
+  - [Assignment 1 (An analysis of github's userbase)](./assignments/Assignment_no1/README.md)
+  - [Assignment 2 (Training machine learning models to predict ratings)](./assignments/Assignment_no2/README.md)
 * And a Test 20% of the grade on Friday 28th April 17:00
 
 ## Lesson Notes
